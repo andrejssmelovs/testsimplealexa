@@ -77,8 +77,8 @@ namespace AlexaAdapter_Sample
                 var botConfig = BotConfiguration.Load(botFilePath ?? @".\BotConfiguration.bot", secretKey);
                 services.AddSingleton(sp => botConfig ?? throw new InvalidOperationException($"The .bot config file could not be loaded. ({botConfig})"));
 
-                //var environment = _isProduction ? "production" : "development";
-                var environment = "development";
+                var environment = _isProduction ? "production" : "development";
+                //var environment = "development";
                 var service = botConfig.Services.Where(s => s.Type == "endpoint" && s.Name == environment).FirstOrDefault();
                 if (!(service is EndpointService endpointService))
                 {

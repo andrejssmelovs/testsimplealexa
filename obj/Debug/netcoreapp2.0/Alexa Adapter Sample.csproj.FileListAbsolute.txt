@@ -1,0 +1,11 @@
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\Alexa Adapter Sample.deps.json
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\Alexa Adapter Sample.runtimeconfig.json
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\Alexa Adapter Sample.runtimeconfig.dev.json
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\Alexa Adapter Sample.dll
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\bin\Debug\netcoreapp2.0\Alexa Adapter Sample.pdb
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\obj\Debug\netcoreapp2.0\Alexa Adapter Sample.AssemblyInfoInputs.cache
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\obj\Debug\netcoreapp2.0\Alexa Adapter Sample.AssemblyInfo.cs
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\obj\Debug\netcoreapp2.0\Alexa Adapter Sample.dll
+C:\Users\asmelovs\Desktop\alexa-bot-service\botbuilder-community-dotnet\samples\Alexa Adapter Sample\obj\Debug\netcoreapp2.0\Alexa Adapter Sample.pdb
